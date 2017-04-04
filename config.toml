@@ -1,0 +1,13 @@
+languageCode = "en-us"
+title = "Aravindh.net"
+baseURL = "https://aravindh.net/blog"
+publishdir = "/var/www/html/blog/"
+relativeURLS = "true"
+canonifyURLs = "true"
+uglyURLs = "true"
+
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "Your subtitle !"
+  description = "Everything is awesome !"
+  cover = "/images/cover.jpg"
